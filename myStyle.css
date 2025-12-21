@@ -358,7 +358,7 @@ body{
 }
 
 
-    .menu{
+.menu{
     list-style: none;
 
     font-family: 'Escoredream';
@@ -368,7 +368,7 @@ body{
 
 
 
-    .ppppppp{
+.ppppppp{
     font-family: 'BonmyeongjoSourceHanSerif';
     font-weight: 200;
     font-size: 0.8rem;
@@ -485,12 +485,12 @@ display: flex;
 }
 
 .size-top{
-    width: 80%;
+    width: 300%;
     object-fit: contain;
 }
 
 .size-topBox{
-    width: 300%;
+    width: 100%;
 }
 
 .size-logo{
@@ -733,3 +733,5 @@ a{
 
 }
 
+
+   
