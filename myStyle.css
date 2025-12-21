@@ -329,8 +329,8 @@ a{
 
 
 
-
 @media(max-width:768px){
+
 
 
 
@@ -366,9 +366,7 @@ body{
     font-size: 1.2rem;
 }
 
-
-
-.ppppppp{
+    .ppppppp{
     font-family: 'BonmyeongjoSourceHanSerif';
     font-weight: 200;
     font-size: 0.8rem;
@@ -378,6 +376,22 @@ body{
     color: darkgrey;
 }
 
+
+    
+#container{
+    margin: 0 auto;
+    display: flex;
+
+}
+
+#mainContents{
+
+    width: 100%;
+    background-color: #f7f6f3;
+    overflow-x: hidden;
+  
+
+}
 
 
 .row{
@@ -485,12 +499,12 @@ display: flex;
 }
 
 .size-top{
-    width: 300%;
+    width: 80%;
     object-fit: contain;
 }
 
 .size-topBox{
-    width: 100%;
+    width: 300%;
 }
 
 .size-logo{
@@ -554,14 +568,14 @@ display: flex;
 
 .up-text6{
     position: absolute;
-    top:865px;
+    top:860px;
     left:40px;
 }
 
 
 .up-text7{
     position: absolute;
-    top:895px;
+    top:885px;
     left:40px;
 }
 
@@ -573,7 +587,7 @@ display: flex;
 
 .up-box{
     position: absolute;
-    top:930px;
+    top:917px;
     left: 38px;
 }
 
@@ -624,7 +638,7 @@ display: flex;
 .h-40{height:40px;}
 .h-50{height:30px;}
 .h-80{height:80px;}
-.h-100{height:550px;}
+.h-100{height:450px;}
 .h-200{height:100px;}
 .h-400{height:100px;}
 
@@ -727,11 +741,11 @@ a{
     padding-left: 1.2rem;
     }
 
-   
 
 
 
 }
 
 
+   
    
